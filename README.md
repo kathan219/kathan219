@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ## Visitors Count
 
-<img src="https://komarev.com/ghpvc/?username=kathan219" alt="" />
+ <img src="https://profile-counter.glitch.me/kathan219/count.svg" alt="" />
+
