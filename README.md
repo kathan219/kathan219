@@ -3,7 +3,7 @@ I'm Kathan Soni, a resourceful Software Developer with a passion for creating in
 
 
 ## 🌐 Socials:
-##### | 📧 [kathansoni2109@gmail.com](mailto:kathansoni2109@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kathan-soni/) | 🌐 [Portfolio](https://www.datascienceportfol.io/kathansoni) 
+##### | 📧 [kathansoni219@gmail.com](mailto:kathansoni2109@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kathan-soni/) | 🌐 [Portfolio](https://www.datascienceportfol.io/kathansoni) 
 
 ## 🌟 Visitors Count 
 
